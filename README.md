@@ -1,7 +1,7 @@
 # finals
 This batch processing GUI can:
--resize photo
--make photo black/white
--add a watermark
+1) resize photo
+2)make photo black/white
+3)add a watermark
 
 Also has our uni's loogo
