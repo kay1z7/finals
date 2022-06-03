@@ -3,7 +3,8 @@ This batch processing GUI can:
 1. Resize photo
 2. Make photo black/white
 3. Add a watermark
-Also has our uni's logo
+
+And has our uni's logo
 
 
 This is how it looks:
